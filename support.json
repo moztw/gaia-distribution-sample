@@ -1,16 +1,10 @@
 {
   "onlinesupport": {
-    "href": "http://support.mozilla.org/",
-    "title": "Mozilla Support"
+    "href": "https://www.facebook.com/groups/fxoszhtw/",
+    "title": "Firefox OS FB"
   },
-  "callsupport": [
-    {
-      "href": "tel:123",
-      "title": "test123"
-    },
-    {
-      "href": "tel:321",
-      "title": "test321"
-    }
-  ]
+  "user-guide": {
+    "href": "http://support.mozilla.org/products/firefox-os",
+    "title": "Mozilla Support"
+  }
 }

@@ -1,21 +1,11 @@
 [
   {
-    "givenName": [
-      "test 1"
-    ],
-    "tel": [
+    "name": ["MozTW mailing list"],
+    "givenName": ["MozTW mailing list"],
+    "email": [
       {
-        "value": "123456"
-      }
-    ]
-  },
-  {
-    "givenName": [
-      "test 2"
-    ],
-    "tel": [
-      {
-        "value": "654321"
+        "type": ["work"],
+        "value": "moztw-general@googlegroups.com"
       }
     ]
   }
